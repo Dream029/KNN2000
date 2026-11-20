@@ -108,7 +108,7 @@ with center_col:
         st.markdown(
             """
             <div style="text-align: center;">
-                <h5 style="margin-bottom: 4px;">ผู้จัดทำโครงงาน</h5>
+                <h5 style="margin-bottom: 4px;">นายสุทธิพงศ์ ชาวนา</h5>
                 <p style="font-size: 14px; font-weight: bold; margin: 2px 0;">รหัสนักศึกษา 674230029</p>
                 <p style="font-size: 13px; color: gray; margin: 0;">สาขาเทคโนโลยีสารสนเทศ</p>
                 <p style="font-size: 12px; color: gray; margin-top: 2px;">KNN Heart Disease Prediction</p>
